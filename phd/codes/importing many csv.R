@@ -1,0 +1,5 @@
+library(qdap)
+dir(*.txt)
+mcsv_r(temp,)
+temp = list.files(pattern="*.txt")
+max(data_test$V2)
